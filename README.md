@@ -1,5 +1,7 @@
 # Dungeon Crawler Game
 
+[![Project Status: Abandoned](./assets/images/badges/status.svg)](./)
+
 > A simple game using Python for our CS class.
 
 ## License
