@@ -3,9 +3,9 @@ from pygame import Vector2
 
 from enums.movement_keys import movement_keys
 from tickable.renderable.collidable.collidable import Collidable
-from tickable.renderable.collidable.entities.living.projectiles.arrow import Arrow
+from tickable.renderable.collidable.entities.projectiles.arrow import Arrow
 from tickable.renderable.collidable.entities.living.living_entity import LivingEntity, get_living_entities
-from tickable.renderable.collidable.entities.living.projectiles.sword import Sword
+from tickable.renderable.collidable.entities.projectiles.sword import Sword
 
 
 def get_players():
