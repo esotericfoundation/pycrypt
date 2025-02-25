@@ -1,4 +1,4 @@
-# Dungeon Crawler Game
+# PyCrypt
 
 [![Project Status: Abandoned](./assets/images/badges/status.svg)](./)
 
