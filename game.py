@@ -140,3 +140,12 @@ class Game:
 
         for tickable in Tickable.tickables:
             tickable.unload()
+
+if __name__ == '__main__':
+    game = Game()
+    game.init()
+
+    while game.tick():
+        pass
+
+    pygame.quit()
