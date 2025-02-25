@@ -11,8 +11,6 @@ from tickable.renderable.collidable.walls.wall import Wall
 from tickable.renderable.display.health_bar import HealthBar
 from tickable.tickable import Tickable
 
-pygame.init()
-
 
 def load_icon(window_name: str, icon_name: str):
     pygame.display.set_caption(window_name)
@@ -142,6 +140,8 @@ class Game:
             tickable.unload()
 
 if __name__ == '__main__':
+    pygame.init()
+
     game = Game()
     game.init()
 
