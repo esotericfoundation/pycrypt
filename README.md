@@ -1,6 +1,6 @@
 # PyCrypt
 
-[![Project status: maintained][status]][root]
+[![Project status: unfinished][status]][root]
 
 > A simple game using Python for our CS class.
 
