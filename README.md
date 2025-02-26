@@ -1,6 +1,6 @@
 # PyCrypt
 
-[![Project Status: Abandoned](./assets/images/badges/status.svg)](./)
+[![Project status: maintained][status]][root]
 
 > A simple game using Python for our CS class.
 
@@ -15,6 +15,7 @@ game python gamedev crawler games game-development pygame dungeon pygame-applica
 <!-- Link aliases -->
 
 [root]: /
+[status]: ./assets/images/badges/status.svg
 
 <!-- Websites -->
 
