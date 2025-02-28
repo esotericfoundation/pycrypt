@@ -4,6 +4,11 @@
 
 > A simple game using Python for our CS class.
 
+## Information
+
+- [To-Do][to-do]
+- [Credit][credit]
+
 ## License
 
 [PyCrypt][root] &copy; 2024-2025 [Esoteric Foundation][author-homepage] is licensed under the [AGPL 3.0][license] only.
@@ -23,4 +28,6 @@ game python gamedev crawler games game-development pygame dungeon pygame-applica
 
 <!-- Files -->
 
+[to-do]: ./TODO.md
+[credit]: ./CREDIT.md
 [license]: ../LICENSE
