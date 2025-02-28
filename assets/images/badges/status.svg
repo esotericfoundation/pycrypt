@@ -1,5 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="205.75" height="28" role="img">
-    <title>Status: Unfinished</title>
+<svg xmlns="http://www.w3.org/2000/svg" width="205.75" height="28" role="img" aria-labelledby="svg-title">
+    <title id="svg-title">Status: Unfinished</title>
 
     <g shape-rendering="crispEdges">
         <rect width="71.5" height="28" fill="#555"/>
