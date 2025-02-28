@@ -15,7 +15,7 @@ game python gamedev crawler games game-development pygame dungeon pygame-applica
 <!-- Link aliases -->
 
 [root]: /
-[status]: ./assets/images/badges/status.svg
+[status]: ../assets/images/badges/status.svg
 
 <!-- Websites -->
 
@@ -23,4 +23,4 @@ game python gamedev crawler games game-development pygame dungeon pygame-applica
 
 <!-- Files -->
 
-[license]: ./LICENSE
+[license]: ../LICENSE
