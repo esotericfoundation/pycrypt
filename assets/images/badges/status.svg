@@ -1,12 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg"
-    xmlns:xlink="http://www.w3.org/1999/xlink" width="205.75" height="28" role="img" aria-label="STATUS: UNFINISHED">
+<svg xmlns="http://www.w3.org/2000/svg" width="205.75" height="28" role="img">
     <title>STATUS: UNFINISHED</title>
     <g shape-rendering="crispEdges">
         <rect width="71.5" height="28" fill="#555"/>
         <rect x="71.5" width="134.25" height="28" fill="#dfb317"/>
     </g>
-    <g fill="#fff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="100">
-        <text transform="scale(.1)" x="357.5" y="175" textLength="475" fill="#fff">STATUS</text>
-        <text transform="scale(.1)" x="1386.25" y="175" textLength="1102.5" fill="#fff" font-weight="bold">UNFINISHED</text>
+    <g fill="#fff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" font-size="10">
+        <text x="35.75" y="17" textLength="47.5" lengthAdjust="spacing">STATUS</text>
+        <text x="138.625" y="17" textLength="110.25" lengthAdjust="spacing" font-weight="bold">UNFINISHED</text>
     </g>
 </svg>
